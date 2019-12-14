@@ -32,13 +32,25 @@ numpy.singularize('phenomena') # returns 'phenomenon'
 ```
 Pull Request are Welcome.For Major Changes,Please open an issue first to discuss what you would like to change.
 ```
+
+```
+Make Software.For Major Changes,Please open the new world.
+```
+
 ```python
 from math import pi
 ```
 -numpy
+
 -matplotlib
+
 -scipy
+
 -tensor-core
+
+```python
+from math import pi
+```
 
 Please make sure to update tests as appropriate.
 
@@ -49,6 +61,14 @@ Please make sure to update tests as appropriate.
 +text in green
 !text in orange
 #text in grey
+```
+
+
+```diff
+-text
++word
+!character
+#string
 ```
 
 [MIT](https://choosealicense.com/licenses/mit/)
