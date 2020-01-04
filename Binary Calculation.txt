@@ -24,21 +24,22 @@ d =>	100 =>	01100100 => 64
 
 Python Programming
 
-P
-y
-t
-h
-o
-n
-
-P
-r
-o
-g
-r
-a
-m
-m
-i
-n
-g
+char	Dec		Binary		Hex
+P =>	80	
+y =>	
+t =>
+h =>
+o =>
+n =>
+space=>
+P =>
+r =>
+o =>
+g =>
+r =>
+a =>
+m =>
+m =>
+i =>
+n =>
+g =>
